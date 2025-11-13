@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Quiz Generator",
+  "description": "An application to help users study for advanced technical certification exams by generating a pool of exam-quality quiz questions based on an exam guide or outline provided by the user.",
+  "requestFramePermissions": []
+}
